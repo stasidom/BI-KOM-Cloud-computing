@@ -1,0 +1,4 @@
+context EC2 Instane
+inv: self.isTypeOf(Started)
+
+
